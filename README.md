@@ -1,4 +1,4 @@
 # first-repository
 This is my first ever repository. 
 <br>
-Author: Vansh Mittal
+Author:  The Vansh Mittal
